@@ -1,4 +1,4 @@
-#MEAL_ADDA
+# MEAL_ADDA
 
 This is a complete guide to make a meal according to your mood, season or occasion, here i have provided the step-by-step process of making a dish with ingredients required to make it, also with this i also tried to provide a information related to its affordability and its complexity to make with the time require to cook that particular dish.
 
@@ -23,7 +23,7 @@ Also in my app you can customize the dishes you want to see by using fliters lik
 
 
 
-#HOW TO USE USE THIS PROJECT:
+# HOW TO USE USE THIS PROJECT:
 
 write this command in terminal:
 
